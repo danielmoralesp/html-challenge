@@ -1,0 +1,4 @@
+1- font-family: Poppins (principal) y sans-serif (si hay problemas, me carga de segundo)
+2- compartir el archivo de imagenes al email
+3- compartir pantallazos de todas las partes de la pagina en desktop
+4- compartir pantallazos de todas las paginas en responsive
